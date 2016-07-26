@@ -79,6 +79,9 @@ this css when the link is moused over*/
 	margin: 0 10px;
 }
 
+.red-border {
+	border: 10px solid red;
+}
 .clearfix {
 	clear: both;
 }
